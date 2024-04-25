@@ -1,0 +1,20 @@
+France
+current anomaly = 1365GWh, at 136% of seasonal normal
+standing at 80.0th percentile of the distribution
+last week anomaly = 1127GWh, at 130% of seasonal normal
+*** 
+Switzerland
+current anomaly = 520GWh, at 136% of seasonal normal
+standing at nanth percentile of the distribution
+last week anomaly = 234GWh, at 115% of seasonal normal
+*** 
+Italy
+current anomaly = -922GWh, at 66% of seasonal normal
+standing at nanth percentile of the distribution
+last week anomaly = -950GWh, at 65% of seasonal normal
+*** 
+Austria
+current anomaly = -306GWh, at 64% of seasonal normal
+standing at nanth percentile of the distribution
+last week anomaly = -308GWh, at 64% of seasonal normal
+*** 
